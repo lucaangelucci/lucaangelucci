@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+img}
+
+#trollface{
+    display:block;
+    margin:auto;
+    width:30%;
+}
+
+#game1{
+    background-color:purple;
+}
+
+#game2{
+    color:purple;
+    text-align: center;
+}
+
+#game3{
+    color:purple;
+text-align: center;
+}
+#title{ 
+    color:crimson;
+    text-align: center;
+}
+#game4{
+   color:purple;
+    text-align:center}
+  #end{
+    color:crimson;
+  text-align:center   
+  }
+  
+#battlepigs{
+    color:darkmagenta;
+    text-align: center 
+  
+  
+ #links{color:crimson;
+ text-align: center   
+ }
